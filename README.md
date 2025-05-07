@@ -5,55 +5,60 @@
 I am a currently a Technical Support Engineer (5+ years) and now I'm trying to pivot in Cybersecurity.
 
 ## Objective
-My journey as and Technical support has led me to develop a passion for Cybersecurity because i think both have similarities at some things. Troubleshooting, looking for the cause of error, investigation, researching the internet, and figuring things out. 
+ 
+With over five years of experience as a Technical Support Engineer, I have developed a strong foundation in troubleshooting, root cause analysis, investigation, and research—skills that closely align with cybersecurity principles. My passion for cybersecurity stems from the analytical mindset required to solve complex technical challenges, uncover security threats, and continuously adapt to evolving risks.
+I am now eager to transition into cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or Cybersecurity Analyst. My goal is to leverage my problem-solving expertise and technical background to contribute to threat detection, incident response, and security operations while continuously expanding my knowledge in the field
 
-I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or Cybersecurity Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/kyntrp/AD-Splunk_SecurityLab">Active Directory & Splunk Lab</a>|
+| EDR Tuning / Attack Detection | <a href="https://github.com/kyntrp/LimaCharlie-Sliver">LimaCharlie & Sliver C2 Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>|
+| Incident Response Planning  and Execution      | <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Tools & Technologies
+**🟦 Security Information & Event Management (SIEM) & Log Analysis**
+- Splunk – Log correlation, threat detection, and SOC operations
+- LimaCharlie – Cloud-native security operations and EDR
+- Sysmon – Windows event logging for forensic analysis
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+**🟦 Endpoint Detection & Response (EDR) & Threat Hunting**
+- LimaCharlie – Endpoint security and detection engineering
+- Velociraptor – Endpoint visibility and forensic analysis
+- Windows Event Logs – Essential for incident investigation
+- Microsoft Defender – Endpoint protection, real-time threat detection, and automated response.
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+**🟦 Security Orchestration, Automation & Response (SOAR)**
+- Tines – Security automation and workflow orchestration
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+**🟦 Network Traffic Analysis & Intrusion Detection**
+- Wireshark – Packet analysis and network forensics
+- Zeek – Network security monitoring and anomaly detection
+- Suricata – Intrusion detection and prevention system
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+**🟦 Threat Intelligence & Adversary Simulation**
+- Sliver C2 – Adversary emulation, red teaming, and C2 operations
+- Atomic Red Team – Detection validation through simulated attacks
+- MITRE ATT&CK – Framework for tactics, techniques, and procedures (TTPs)
+- CyberChef – Data transformation and forensic analysis
+
+**🟦 Digital Forensics & Incident Response (DFIR)**
+- Autopsy – Open-source digital forensics tool for disk and file analysis, commonly used for investigating breaches and malware infections.
+- FTK Imager – Forensic imaging tool used to acquire and analyze disk images, ensuring integrity for investigations.
+- Volatility3/VolatilityWorkbench – Memory forensics framework for analyzing RAM dumps to detect malware, persistence mechanisms, and intrusion artifacts.
+
+
+
+## 🏆 Certifications  
+- [TryHackMe SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SWVYTHDKKJ.pdf)
+
+## 🟥 Projects
+- <a href="https://github.com/kyntrp/AD-Splunk_SecurityLab">Active Directory & Splunk Lab</a>
+- <a href="https://github.com/kyntrp/LimaCharlie-Sliver">LimaCharlie & Sliver C2 Lab</a>
+- <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>
