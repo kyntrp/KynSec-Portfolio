@@ -57,7 +57,10 @@ I am now eager to transition into cybersecurity, specifically aiming to join a S
 
 ## 🏆 Certifications  
 - [TryHackMe SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SWVYTHDKKJ.pdf)
+- [SC2 Certified in Cybersecurity](https://github.com/kyntrp/Certs/blob/main/README.md)
+- [Linkedin Learning - IT Security Specialist](https://github.com/kyntrp/Certs2Linkedin)
 
+  
 ## 🟥 Projects
 - <a href="https://github.com/kyntrp/AD-Splunk_SecurityLab">Active Directory & Splunk Lab</a>
 - <a href="https://github.com/kyntrp/LimaCharlie-Sliver">LimaCharlie & Sliver C2 Lab</a>
