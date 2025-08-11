@@ -11,7 +11,6 @@ I am now eager to transition into cybersecurity, specifically aiming to join a S
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +19,7 @@ I am now eager to transition into cybersecurity, specifically aiming to join a S
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>|
 | Incident Response Planning  and Execution      | <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>|
-
+| Firewall Configuration / Intrusion Detection | <a href="https://github.com/kyntrp/Intrusion-Detection-and-High-Availability-Firewall-Lab-OPNsense-">Intrusion Detection and High Availability Firewall Lab(OPNsense) </a>|
 ## Tools & Technologies
 **🟦 Security Information & Event Management (SIEM) & Log Analysis**
 - Splunk – Log correlation, threat detection, and SOC operations
@@ -41,13 +40,15 @@ I am now eager to transition into cybersecurity, specifically aiming to join a S
 - Wireshark – Packet analysis and network forensics
 - Zeek – Network security monitoring and anomaly detection
 - Suricata – Intrusion detection and prevention system
+- OPNSense Firewall - open-source firewall platform with built-in intrusion detection
 
 **🟦 Threat Intelligence & Adversary Simulation**
 - Sliver C2 – Adversary emulation, red teaming, and C2 operations
 - Atomic Red Team – Detection validation through simulated attacks
 - MITRE ATT&CK – Framework for tactics, techniques, and procedures (TTPs)
 - CyberChef – Data transformation and forensic analysis
-
+- NMAP(Network Mapper) -  open-source tool used for network discovery and security auditing. It scans hosts and services to identify open ports, running applications, and potential vulnerabilities
+  
 **🟦 Digital Forensics & Incident Response (DFIR)**
 - Autopsy – Open-source digital forensics tool for disk and file analysis, commonly used for investigating breaches and malware infections.
 - FTK Imager – Forensic imaging tool used to acquire and analyze disk images, ensuring integrity for investigations.
@@ -65,3 +66,4 @@ I am now eager to transition into cybersecurity, specifically aiming to join a S
 - <a href="https://github.com/kyntrp/AD-Splunk_SecurityLab">Active Directory & Splunk Lab</a>
 - <a href="https://github.com/kyntrp/LimaCharlie-Sliver">LimaCharlie & Sliver C2 Lab</a>
 - <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>
+- <a href="https://github.com/kyntrp/Intrusion-Detection-and-High-Availability-Firewall-Lab-OPNsense-">Intrusion Detection and High Availability Firewall Lab(OPNsense)</a>
