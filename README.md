@@ -2,12 +2,13 @@
 <a href="https://www.linkedin.com/in/kyntarape999/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a currently a Technical Support Engineer (5+ years) and now I'm trying to pivot in Cybersecurity.
+I’m currently a Technical Support Engineer with over five years of experience in troubleshooting, investigation, and system optimization. While I’m actively pursuing a career in Cybersecurity, I’ve also developed a strong passion for Automation Engineering—especially building intelligent workflows and AI agents using tools like n8n. My portfolio reflects both paths, as I continue to grow in both domains
 
 ## Objective
  
-With over five years of experience as a Technical Support Engineer, I have developed a strong foundation in troubleshooting, root cause analysis, investigation, and research—skills that closely align with cybersecurity principles. My passion for cybersecurity stems from the analytical mindset required to solve complex technical challenges, uncover security threats, and continuously adapt to evolving risks.
-I am now eager to transition into cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or Cybersecurity Analyst. My goal is to leverage my problem-solving expertise and technical background to contribute to threat detection, incident response, and security operations while continuously expanding my knowledge in the field
+With over five years of experience in technical support, I’ve built a solid foundation in root cause analysis, cross-platform troubleshooting, and workflow resilience—skills that naturally align with cybersecurity and automation engineering. My interest in cybersecurity stems from the analytical mindset required to detect threats, respond to incidents, and adapt to evolving risks. At the same time, I’m deeply engaged in automation projects that leverage AI agents, API orchestration, and dynamic workflows using n8n.
+I’m currently seeking opportunities in either Cybersecurity (SOC Tier 1, Cybersecurity Analyst) or Automation Engineering, where I can apply my technical background to threat detection, workflow optimization, and intelligent system design. Whether building self-healing labs or automating chatbot interactions, I’m driven by a commitment to continuous learning and creating scalable, future-proof solutions.
+
 
 
 ## Skills
@@ -35,6 +36,8 @@ I am now eager to transition into cybersecurity, specifically aiming to join a S
 
 **🟦 Security Orchestration, Automation & Response (SOAR)**
 - Tines – Security automation and workflow orchestration
+- n8n – General-purpose automation platform used for AI agent design, API integration, and custom chatbot workflow
+
 
 **🟦 Network Traffic Analysis & Intrusion Detection**
 - Wireshark – Packet analysis and network forensics
@@ -61,9 +64,12 @@ I am now eager to transition into cybersecurity, specifically aiming to join a S
 - [SC2 Certified in Cybersecurity](https://github.com/kyntrp/Certs/blob/main/README.md)
 - [Linkedin Learning - IT Security Specialist](https://github.com/kyntrp/Certs2Linkedin)
 
+
   
 ## 🟥 Projects
 - <a href="https://github.com/kyntrp/AD-Splunk_SecurityLab">Active Directory & Splunk Lab</a>
 - <a href="https://github.com/kyntrp/LimaCharlie-Sliver">LimaCharlie & Sliver C2 Lab</a>
 - <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>
 - <a href="https://github.com/kyntrp/Intrusion-Detection-and-High-Availability-Firewall-Lab-OPNsense-">Intrusion Detection and High Availability Firewall Lab(OPNsense)</a>
+- <a href="https://github.com/kyntrp/n8n-automation-001/tree/main">Build with AI: Create Custom Chatbots with n8n
+- <a href="https://github.com/kyntrp/n8n-automation-001/tree/main">Build AI Agents and Automate Workflows with n8n
