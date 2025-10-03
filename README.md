@@ -51,6 +51,14 @@ I’m currently seeking opportunities in either Cybersecurity (SOC Tier 1, Cyber
 - MITRE ATT&CK – Framework for tactics, techniques, and procedures (TTPs)
 - CyberChef – Data transformation and forensic analysis
 - NMAP(Network Mapper) -  open-source tool used for network discovery and security auditing. It scans hosts and services to identify open ports, running applications, and potential vulnerabilities
+- Gobuster / Dirb – Used for directory and file brute-forcing to uncover hidden web resources that led to initial footholds.
+- Burp Suite – Intercepted and manipulated HTTP requests to analyze web application behavior and exploit vulnerabilities.
+- Hydra – Applied for brute-force attacks against login services (SSH, FTP, HTTP, etc.), enabling password discovery and access validation during exploitation.
+- SQLMap – Automated SQL injection testing and exploitation.
+
+
+
+
   
 **🟦 Digital Forensics & Incident Response (DFIR)**
 - Autopsy – Open-source digital forensics tool for disk and file analysis, commonly used for investigating breaches and malware infections.
