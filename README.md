@@ -80,6 +80,5 @@ I’m currently seeking opportunities in either Cybersecurity (SOC Tier 1, Cyber
 - <a href="https://github.com/kyntrp/LimaCharlie-Sliver">LimaCharlie & Sliver C2 Lab</a>
 - <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>
 - <a href="https://github.com/kyntrp/Intrusion-Detection-and-High-Availability-Firewall-Lab-OPNsense-">Intrusion Detection and High Availability Firewall Lab(OPNsense)</a>
-- <a href="https://github.com/kyntrp/n8n-automation-001/tree/main">Build with AI: Create Custom Chatbots with n8n
 - <a href="https://github.com/kyntrp/n8n-automation-001/tree/main">Build AI Agents and Automate Workflows with n8n
 - <a href="https://github.com/kyntrp/Vulnhub-Planets-Earth-Mercury-Venus">VulnHub Labs: Earth, Mercury, Venus
