@@ -21,6 +21,7 @@ I’m currently seeking opportunities in either Cybersecurity (SOC Tier 1, Cyber
 | Incident Response Planning  and Execution      | <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>|
 | Firewall Configuration / Intrusion Detection | <a href="https://github.com/kyntrp/Intrusion-Detection-and-High-Availability-Firewall-Lab-OPNsense-">Intrusion Detection and High Availability Firewall Lab(OPNsense) </a>|
+| Penetration Testing & Vulnerability Exploitation | <a href="https://github.com/kyntrp/Vulnhub-Planets-Earth-Mercury-Venus">VulnHub Labs: Earth, Mercury, Venus </a>|
 ## Tools & Technologies
 **🟦 Security Information & Event Management (SIEM) & Log Analysis**
 - Splunk – Log correlation, threat detection, and SOC operations
