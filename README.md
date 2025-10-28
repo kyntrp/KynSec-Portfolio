@@ -17,9 +17,9 @@ I’m currently seeking opportunities in either Cybersecurity (SOC Tier 1, Cyber
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/kyntrp/AD-Splunk_SecurityLab">Active Directory & Splunk Lab</a>|
 | EDR Tuning / Attack Detection | <a href="https://github.com/kyntrp/LimaCharlie-Sliver">LimaCharlie & Sliver C2 Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>|
+| Security Automation        | <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a> <br> <a href="https://github.com/kyntrp/N8n-SOC_Automation-Splunk_DFIR-IRIS"> N8n-SOC_Automation-Splunk_DFIR-IRIS |
 | Incident Response Planning  and Execution      | <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/kyntrp/SOAR-EDR_SecurityLab">SOAR & EDR Integration Lab</a> <br> <a href="https://github.com/kyntrp/N8n-SOC_Automation-Splunk_DFIR-IRIS"> N8n-SOC_Automation-Splunk_DFIR-IRIS|
 | Firewall Configuration / Intrusion Detection | <a href="https://github.com/kyntrp/Intrusion-Detection-and-High-Availability-Firewall-Lab-OPNsense-">Intrusion Detection and High Availability Firewall Lab(OPNsense) </a>|
 | Penetration Testing & Vulnerability Exploitation | <a href="https://github.com/kyntrp/Vulnhub-Planets-Earth-Mercury-Venus">VulnHub Labs: Earth, Mercury, Venus </a>|
 ## Tools & Technologies
@@ -82,3 +82,4 @@ I’m currently seeking opportunities in either Cybersecurity (SOC Tier 1, Cyber
 - <a href="https://github.com/kyntrp/Intrusion-Detection-and-High-Availability-Firewall-Lab-OPNsense-">Intrusion Detection and High Availability Firewall Lab(OPNsense)</a>
 - <a href="https://github.com/kyntrp/n8n-automation-001/tree/main">Build AI Agents and Automate Workflows with n8n
 - <a href="https://github.com/kyntrp/Vulnhub-Planets-Earth-Mercury-Venus">VulnHub Labs: Earth, Mercury, Venus
+- <a href="https://github.com/kyntrp/N8n-SOC_Automation-Splunk_DFIR-IRIS"> N8n-SOC_Automation-Splunk_DFIR-IRIS
