@@ -7,7 +7,7 @@ I’m currently a Technical Support Engineer with over five years of experience 
 ## Objective
  
 With over five years of experience in technical support, I’ve built a solid foundation in root cause analysis, cross-platform troubleshooting, and workflow resilience—skills that naturally align with cybersecurity and automation engineering. My interest in cybersecurity stems from the analytical mindset required to detect threats, respond to incidents, and adapt to evolving risks. At the same time, I’m deeply engaged in automation projects that leverage AI agents, API orchestration, and dynamic workflows using n8n.
-I’m currently seeking opportunities in either Cybersecurity (SOC Tier 1, Cybersecurity Analyst) or Automation Engineering, where I can apply my technical background to threat detection, workflow optimization, and intelligent system design. Whether building self-healing labs or automating chatbot interactions, I’m driven by a commitment to continuous learning and creating scalable, future-proof solutions.
+I’m currently seeking opportunities in either Cybersecurity (SOC Tier 1, Cybersecurity Analyst) or Automation Engineering, where I can apply my technical background to threat detection, workflow optimization, and intelligent system design. Whether building labs or automating chatbot interactions, I’m driven by a commitment to continuous learning and creating scalable, future-proof solutions.
 
 
 
