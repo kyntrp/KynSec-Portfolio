@@ -1,6 +1,15 @@
 # Hello, I'm Kyn,
-<a href="https://www.linkedin.com/in/kyntarape999/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kyntarape999/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/kyntarape.png" alt="Your Image Badge" />
+
+
+
+
+
+
+<br>
 
 I’m currently a Technical Support Engineer with over five years of experience in troubleshooting, investigation, and system optimization. While I’m actively pursuing a career in Cybersecurity, I’ve also developed a strong passion for Automation Engineering—especially building intelligent workflows and AI agents using tools like n8n. My portfolio reflects both paths, as I continue to grow in both domains
 
